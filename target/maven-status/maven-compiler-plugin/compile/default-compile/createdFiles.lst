@@ -1,0 +1,9 @@
+mail/MailSendServer.class
+com/util/mail/MailSenderInfo.class
+mail/ReciveIMAPmail.class
+mail/MailSendServer$1.class
+com/util/mail/Test.class
+com/util/mail/MyAuthenticator.class
+mail/MailSendInfo.class
+com/util/mail/SimpleMailSender.class
+mail/Test.class
